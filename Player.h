@@ -13,6 +13,8 @@ public:
 	void Update();
 	void Draw();
 
+	Vec2 GetPos() const { return m_pos; }
+
 private:
 	enum Dir
 	{
