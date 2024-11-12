@@ -3,7 +3,7 @@
 
 #include "game.h"
 
-#define BIG_MAP
+//#define BIG_MAP
 
 namespace
 {
